@@ -10,8 +10,6 @@
 
 ---
 
-## ⚡ Arsenal
-
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=ff0000)
@@ -32,8 +30,6 @@
 </div>
 
 ---
-
-## 🐍 Watch the Snake Devour My Contributions
 
 <div align="center">
 <picture>
