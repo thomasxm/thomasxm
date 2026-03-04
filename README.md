@@ -40,7 +40,7 @@
 
 ---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=thomasxm&color=dc143c&style=for-the-badge&label=PROFILE+VIEWS)
+![Visitor Count](https://komarev.com/ghpvc/?username=thomasxm&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
