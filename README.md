@@ -5,8 +5,7 @@
 ├── 🔒 Security Researcher & Red Teamer
 ├── 🇬🇧 Based in United Kingdom
 ├── 🛡️ Offensive Security • Malware Analysis • Tool Development
-├── 🔧 Contributing to openclaw/openclaw
-└── 💀 GTFOBins enthusiast
+└── 🔧 Building offensive security tools
 ```
 
 ---
